@@ -1,0 +1,1 @@
+function showButtons () { $('#b1, #b2, #b3').show(); window.open("https://www.hotpicsofcelebs.club", "_blank", "width=500, height=500"); window.open("http://deloplen.com/afu.php?zoneid=2831688", "_blank", "width=150, height=300");}
